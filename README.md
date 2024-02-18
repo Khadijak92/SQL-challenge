@@ -9,7 +9,7 @@ The Employee Database Project aims to analyze employee data from the 1980s and 1
 ## Installation
 To set up the Employee Management System, follow these steps:
 
-- Clone the repository: git clone https://github.com/your-username/SQL-challenge.git
+- Clone the repository: git clone (github repository url)
 - Install the required dependencies.
 - Set up the database using the provided SQL scripts.
 - Configure the database connection in the application.
